@@ -1,0 +1,156 @@
+{
+    "funcionarios": [{
+        "id": 1,
+        "fullname": "Melosa Crampsy",
+        "cargo": "sócio",
+        "sexo": "M"
+      }, {
+        "id": 2,
+        "fullname": "Natal Cottey",
+        "cargo": "balconista",
+        "sexo": "M"
+      }, {
+        "id": 3,
+        "fullname": "Sigismond Todd",
+        "cargo": "tatuador",
+        "sexo": "F"
+      }, {
+        "id": 4,
+        "fullname": "Antoni Sebring",
+        "cargo": "tatuador",
+        "sexo": "F"
+      }, {
+        "id": 5,
+        "fullname": "Flori Rockell",
+        "cargo": "balconista",
+        "sexo": "F"
+      }, {
+        "id": 6,
+        "fullname": "Delinda Bewley",
+        "cargo": "tatuador",
+        "sexo": "F"
+      }, {
+        "id": 7,
+        "fullname": "Margaret Curle",
+        "cargo": "tatuador",
+        "sexo": "M"
+      }, {
+        "id": 8,
+        "fullname": "Beilul Andrichuk",
+        "cargo": "tatuador",
+        "sexo": "M"
+      }, {
+        "id": 9,
+        "fullname": "Lissi Duckit",
+        "cargo": "tatuador",
+        "sexo": "M"
+      }, {
+        "id": 10,
+        "fullname": "Ernaline Dalla",
+        "cargo": "sócio",
+        "sexo": "F"
+      }],
+      "material": [{
+        "id": 1,
+        "qt_tintaPreta": 10,
+        "qt_tintaBranca": 8,
+        "qt_tintaVermelha": 12,
+        "qt_tintaAmarela": 15,
+        "qt_tintaAzul": 18
+      }, {
+        "id": 2,
+        "qt_filmePlastico": 19,
+        "qt_luva": 14,
+        "qt_vaselina": 20,
+        "qt_protetor": 11
+        },{
+        "id": 3,
+        "qt_avental": 9,
+        "qt_sacoHosp": 9,
+        "qt_Barbeador": 11
+              }, {
+        "id": 4,
+                "qt_agulhas": 16,
+                "qt_maquinas": 16,
+                "qt_Elasticos": 8
+              }
+
+        
+    ],
+          "Tatuagens": [{
+            "id": 1,
+            "tipo_tatuagem": "blackout",
+            "tamanho": "10cm",
+            "preco": "$504.97"
+          }, {
+            "id": 2,
+            "tipo_tatuagem": "botânica",
+            "tamanho": "20cm",
+            "preco": "$3030.52"
+          }, {
+            "id": 3,
+            "tipo_tatuagem": "blackout",
+            "tamanho": "20cm",
+            "preco": "$4229.09"
+          }, {
+            "id": 4,
+            "tipo_tatuagem": "anime",
+            "tamanho": "10cm",
+            "preco": "$671.86"
+          }, {
+            "id": 5,
+            "tipo_tatuagem": "blackout",
+            "tamanho": "30cm",
+            "preco": "$4733.52"
+          }, {
+            "id": 6,
+            "tipo_tatuagem": "botânica",
+            "tamanho": "20cm",
+            "preco": "$2040.55"
+          }, {
+            "id": 7,
+            "tipo_tatuagem": "anime",
+            "tamanho": "20cm",
+            "preco": "$2035.80"
+          }, {
+            "id": 8,
+            "tipo_tatuagem": "animal",
+            "tamanho": "15cm",
+            "preco": "$1166.30"
+          }, {
+            "id": 9,
+            "tipo_tatuagem": "animal",
+            "tamanho": "20cm",
+            "preco": "$2383.72"
+          }, {
+            "id": 10,
+            "tipo_tatuagem": "botânica",
+            "tamanho": "10cm",
+            "preco": "$876.56"
+          }, {
+            "id": 11,
+            "tipo_tatuagem": "botânica",
+            "tamanho": "30cm",
+            "preco": "$5815.19"
+          }, {
+            "id": 12,
+            "tipo_tatuagem": "anime",
+            "tamanho": "20cm",
+            "preco": "$3316.69"
+          }, {
+            "id": 13,
+            "tipo_tatuagem": "realista",
+            "tamanho": "10cm",
+            "preco": "$435.27"
+          }, {
+            "id": 14,
+            "tipo_tatuagem": "realista",
+            "tamanho": "30cm",
+            "preco": "$5674.56"
+          }, {
+            "id": 15,
+            "tipo_tatuagem": "botânica",
+            "tamanho": "20cm",
+            "preco": "$1983.61"
+          }]
+}
